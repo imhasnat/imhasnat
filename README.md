@@ -6,7 +6,7 @@ I'm a passionate JavaScript Developer based in Bangladesh. I love building web a
 
 - 💼 Currently working as a Frontend Developer at ByteHeart
 - 🌱 Continuously learning and improving my skills
-- 💻 Experienced with HTML, CSS, JavaScript, React.js
+- 💻 Experienced with HTML, CSS, JavaScript, React.js, Node.js
 - 🚀 Open to new opportunities and collaborations
 
 ## GitHub Stats
